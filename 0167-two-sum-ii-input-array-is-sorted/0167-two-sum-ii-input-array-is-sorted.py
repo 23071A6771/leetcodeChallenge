@@ -10,7 +10,6 @@ class Solution:
                 i+=1
             else:
                 return [i+1,j+1]
-
         return [-1,-1]
 
         
