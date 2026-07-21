@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/23071A6771/leetcodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23071A6771/leetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/23071A6771/leetcodeChallenge/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/23071A6771/leetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/23071A6771/leetcodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/23071A6771/leetcodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/23071A6771/leetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
