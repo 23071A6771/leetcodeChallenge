@@ -2,29 +2,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23071A6771/leetcodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/23071A6771/leetcodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/23071A6771/leetcodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23071A6771/leetcodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/23071A6771/leetcodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/23071A6771/leetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/23071A6771/leetcodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/23071A6771/leetcodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/23071A6771/leetcodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -36,8 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/23071A6771/leetcodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23071A6771/leetcodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
@@ -46,57 +46,57 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/23071A6771/leetcodeChallenge/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23071A6771/leetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/23071A6771/leetcodeChallenge/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0724-find-pivot-index](https://github.com/23071A6771/leetcodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/23071A6771/leetcodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/23071A6771/leetcodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23071A6771/leetcodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/23071A6771/leetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0050-powx-n](https://github.com/23071A6771/leetcodeChallenge/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/23071A6771/leetcodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/23071A6771/leetcodeChallenge/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/23071A6771/leetcodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/23071A6771/leetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/23071A6771/leetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0050-powx-n](https://github.com/23071A6771/leetcodeChallenge/tree/main/0050-powx-n/) | Medium |
-| [0206-reverse-linked-list](https://github.com/23071A6771/leetcodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
+| [0206-reverse-linked-list](https://github.com/23071A6771/leetcodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/23071A6771/leetcodeChallenge/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/23071A6771/leetcodeChallenge/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/23071A6771/leetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0509-fibonacci-number](https://github.com/23071A6771/leetcodeChallenge/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0231-power-of-two](https://github.com/23071A6771/leetcodeChallenge/tree/main/0231-power-of-two/) | Easy |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/23071A6771/leetcodeChallenge/tree/main/0206-reverse-linked-list/) | Easy |
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/23071A6771/leetcodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
