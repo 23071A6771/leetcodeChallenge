@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/23071A6771/leetcodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/23071A6771/leetcodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/23071A6771/leetcodeChallenge/tree/main/0054-spiral-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/23071A6771/leetcodeChallenge/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23071A6771/leetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/23071A6771/leetcodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/23071A6771/leetcodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/23071A6771/leetcodeChallenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/23071A6771/leetcodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23071A6771/leetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
