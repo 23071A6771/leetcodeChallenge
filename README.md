@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/23071A6771/leetcodeChallenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/23071A6771/leetcodeChallenge/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/23071A6771/leetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/23071A6771/leetcodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/23071A6771/leetcodeChallenge/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/23071A6771/leetcodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/23071A6771/leetcodeChallenge/tree/master/0367-valid-perfect-square) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/23071A6771/leetcodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/23071A6771/leetcodeChallenge/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/23071A6771/leetcodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -121,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/23071A6771/leetcodeChallenge/tree/main/0020-valid-parentheses/) | Easy |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
