@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/23071A6771/leetcodeChallenge/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/23071A6771/leetcodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
